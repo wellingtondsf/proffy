@@ -1,12 +1,16 @@
-# Funcionalidades
+# Informations
+ - The server will start at the port 3333
 
-## Conexões
 
- - Rota para listar o total de conexões realizadas;
- - Rota para criar uma nova conexão;
+# Routes
 
-## Aulas
+## Connections
 
- - Rota para criar uma aula;
- - Rota para listar as aulas;
-    - Filtrar por matéria, dia da semana e horário;
+ - Route to create a new connection;
+ - Route to list the total of connections made;
+
+## Classes
+
+ - Route to create a new class;
+ - Route to list the classes;
+    - Filter by subject, week_day and time;
